@@ -5,8 +5,8 @@ https = int(input("If you use HTTPS enter 1:"))
 
 ##Leave everything below this line alone, unless you know what you are doing
 
-P1 = starting_port 
-P2 = starting_port 
+P1 = starting_port+1
+P2 = starting_port+1
 M1 = monitors 
 M2 = monitors 
 
